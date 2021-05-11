@@ -1,0 +1,15 @@
+#user-list_filter {
+    text-align: right;
+}
+
+#user-list_paginate>ul {
+    float: right;
+}
+
+tr:hover {
+    cursor: pointer;
+}
+
+tr[user]:hover {
+    background-color: lightsteelblue;
+}
